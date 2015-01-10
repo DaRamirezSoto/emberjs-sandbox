@@ -1,0 +1,23 @@
+{
+  "name": "dars-emberjs-sandbox",
+  "version": "0.0.0",
+  "authors": [
+    "D.A. Ramirez Soto <DaRamirezSoto@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resource/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.9.1",
+    "html5-boilerplate": "~4.3.0",
+    "boostrap-sass": "~3.3.1",
+    "requirejs": "~2.1.15"
+  }
+}
